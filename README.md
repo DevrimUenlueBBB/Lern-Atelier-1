@@ -28,11 +28,20 @@ Mich vertraut mit den Basics machen und meinen Weg in der Informatik finden.
 
 ## Planung 05.09.2024
 
-- [ ] Mission 6
-- [ ] 1706
-- [ ] 1707
+- [X] Mission 6
+- [X] 1706
+- [X] 1707
 
-(Heute habe ich... (50-100 Wörter))
+(Heute habe ich erneut an den modulen weitergearbeitet und werde wahrscheinlich weiterhin an dem Modul 431, da ich dort ein wenig im Rückstand bin)
+
+
+## Planung 12.09.2024
+
+- [ ] 1708
+- [ ] 1709
+- [ ] 1710
+
+(Heute habe ich... )
 
 ## Lernperiode Reflexion
 (In dieser Lernperiode habe ich... (50-100 Wörter))
