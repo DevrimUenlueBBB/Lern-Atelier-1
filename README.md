@@ -43,11 +43,6 @@ Mich vertraut mit den Basics machen und meinen Weg in der Informatik finden.
 
 (Heute habe ich... )
 
-## Lernperiode Reflexion
-(In dieser Lernperiode habe ich... (50-100 Wörter))
-
-
-
 
 
 
