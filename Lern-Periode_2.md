@@ -20,11 +20,11 @@ Mich mit den Basics mehr vertaut machen und eventuell ein Projekt anfangen
 
 ## Planung 17.10.2025
 
-- [ ] 
-- [ ] 
-- [ ] 
+- [x] 1721
+- [ ] 1711
+- [ ] 1712
 
-(Heute habe ich..)
+(Leider habe ich heute nur 1721 bearbeitet. Es war eine sehr große Aufgabe, die mehr Zeit in Anspruch genommen hat als gedacht. Allerdings konnte ich mit 1711 beginnen.)
 
 ## Lernperiode Reflexion
 (In dieser Lernperiode habe ich... (50-100 Wörter))
