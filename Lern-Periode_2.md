@@ -26,5 +26,14 @@ Mich mit den Basics mehr vertaut machen und eventuell ein Projekt anfangen
 
 (Leider habe ich heute nur 1721 bearbeitet. Es war eine sehr große Aufgabe, die mehr Zeit in Anspruch genommen hat als gedacht. Allerdings konnte ich mit 1711 beginnen.)
 
+## Planung 24.10.2025
+
+- [x] Experimentieren in C#
+
+(Da wir diese Woche unsere Module abgeschlossen haben, gibt es dort momentan nichts zu tun. Deshalb habe ich heute einfach weiter mit C# experimentiert. Ich habe allerdings kein spezifisches Projekt begonnen, sondern mich eher mit Erweiterungen in älteren Projekten beschäftigt und mein Verständnis für die Logik verbessert.)
+
+
+
+
 ## Lernperiode Reflexion
 (In dieser Lernperiode habe ich... (50-100 Wörter))
