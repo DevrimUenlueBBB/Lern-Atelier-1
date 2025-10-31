@@ -40,7 +40,7 @@ Mich mit den Basics mehr vertaut machen und eventuell ein Projekt anfangen
 
 - [ ] IMS Projekt 
 
-
+(Relektion)
 
 ## Lernperiode Reflexion
 (In dieser Lernperiode habe ich... (50-100 Wörter))
