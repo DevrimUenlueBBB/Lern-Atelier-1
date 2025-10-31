@@ -21,8 +21,8 @@ Mich mit den Basics mehr vertaut machen und eventuell ein Projekt anfangen
 ## Planung 17.10.2025
 
 - [x] 1721
-- [ ] 1711
-- [ ] 1712
+- [X] 1711
+- [X] 1712
 
 (Leider habe ich heute nur 1721 bearbeitet. Es war eine sehr große Aufgabe, die mehr Zeit in Anspruch genommen hat als gedacht. Allerdings konnte ich mit 1711 beginnen.)
 
