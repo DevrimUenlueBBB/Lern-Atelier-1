@@ -30,12 +30,15 @@ Mich mit den Basics mehr vertaut machen und eventuell ein Projekt anfangen
 
 - [x] Experimentieren in C#
 
-## Planung 17.10.2025
+## Planung 31.10.2025
 
 - [x] IMS Projekt 
 
-(Heute habe ich mit meinen Partnern Alex und Tobias an unserem Projekt weitergearbeitet, das wir bei Frau Dillier gestartet haben. Wir haben ein Grundprinzip für unsere UI gestaltet, um es später unserem Arbeitgeber zu präsentieren.)
+(Heute habe ich mit meinen Partnern Alex und Tobias an unserem Projekt weitergearbeitet, das wir bei Frau Dillier begonnen haben. Wir haben ein Grundprinzip für unsere UI gestaltet, um es später unserem Arbeitgeber zu präsentieren. Wir hatten Probleme mit dem Teilen des Codes und dem Debugging, konnten diese aber gut lösen.)
 
+## Planung 07.11.2025
+
+- [ ] IMS Projekt 
 
 
 
