@@ -30,7 +30,11 @@ Mich mit den Basics mehr vertaut machen und eventuell ein Projekt anfangen
 
 - [x] Experimentieren in C#
 
-(Da wir diese Woche unsere Module abgeschlossen haben, gibt es dort momentan nichts zu tun. Deshalb habe ich heute einfach weiter mit C# experimentiert. Ich habe allerdings kein spezifisches Projekt begonnen, sondern mich eher mit Erweiterungen in älteren Projekten beschäftigt und mein Verständnis für die Logik verbessert.)
+## Planung 17.10.2025
+
+- [x] IMS Projekt 
+
+(Heute habe ich mit meinen Partnern Alex und Tobias an unserem Projekt weitergearbeitet, das wir bei Frau Dillier gestartet haben. Wir haben ein Grundprinzip für unsere UI gestaltet, um es später unserem Arbeitgeber zu präsentieren.)
 
 
 
