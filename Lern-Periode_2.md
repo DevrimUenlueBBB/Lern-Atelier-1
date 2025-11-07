@@ -46,7 +46,7 @@ Mich mit den Basics mehr vertaut machen und eventuell ein Projekt anfangen
 
 ## Planung 14.11.2025
 
-- [X] IMS Projekt 
+- [ ] IMS Projekt 
 
 (Beschreibung)
 
