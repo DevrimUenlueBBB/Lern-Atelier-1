@@ -40,9 +40,9 @@ Mich mit den Basics mehr vertaut machen und eventuell ein Projekt anfangen
 
 ## Planung 07.11.2025
 
-- [ ] IMS Projekt 
+- [X] IMS Projekt 
 
-(Relektion)
+(Heute habe ich erneut mit meinen Partnern an unserem Projekt gearbeitet. Allerdings hatten wir einige Probleme mit den Plug-ins, die wir bisher nicht lösen konnten.)
 
 ## Lernperiode Reflexion
 (In dieser Lernperiode habe ich... (50-100 Wörter))
