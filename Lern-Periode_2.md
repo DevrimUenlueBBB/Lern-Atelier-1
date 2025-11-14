@@ -46,6 +46,12 @@ Mich mit den Basics mehr vertaut machen und eventuell ein Projekt anfangen
 
 ## Planung 14.11.2025
 
+- [X] IMS Projekt 
+
+(Heute habe ich erneut mit meinen Partnern an unserem Budgetplaner gearbeitet. Ich habe an der GUI für die Ein- und Ausgaben gearbeitet. Da ich noch nicht so erfahren im Erstellen von GUIs bin, hatte ich Schwierigkeiten mit dem Code schreiben, aber ich habe mich mithilfe von Google und ChatGPT mehr damit vertraut gemacht. Jetzt sollte alles besser laufen, daher bin ich für das nächste Mal zuversichtlich.)
+
+## Planung 21.11.2025
+
 - [ ] IMS Projekt 
 
 (Beschreibung)
