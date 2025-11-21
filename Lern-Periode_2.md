@@ -52,6 +52,12 @@ Mich mit den Basics mehr vertaut machen und eventuell ein Projekt anfangen
 
 ## Planung 21.11.2025
 
+- [x] IMS Projekt 
+
+(Heute habe ich wieder mit Tobias an unserem Budgetplaner gearbeitet. Wir haben die Funktionen und die GUI problemlos bearbeitet. Ich bin zuversichtlich, dass es beim nächsten Mal wieder gut laufen wird. Wir müssen nur noch die einzelnen Programme zusammenfügen und ihre Funktionen gegebenenfalls überarbeiten.)
+
+## Planung 28.11.2025
+
 - [ ] IMS Projekt 
 
 (Beschreibung)
