@@ -58,9 +58,9 @@ Mich mit den Basics mehr vertaut machen und eventuell ein Projekt anfangen
 
 ## Planung 28.11.2025
 
-- [ ] IMS Projekt 
+- [X] IMS Projekt 
 
-(Beschreibung)
+(Da wir unser Programmierprojekt am Mittwoch abgeben mussten, konnten wir leider nicht mehr daran arbeiten. Da wir dazu eine Präsentation halten müssen, haben wir diese Stunden in die Gestaltung der Präsentation investiert. Das erleichtert unsere Koordination, da wir alles selbst gestaltet haben. Es lief alles gut und es gab keine Probleme. Ich vermute, dass alles auf das nächste Mal abgeschlossen ist und ich dann ein neues Projekt anfangen oder eventuell eines der Module bearbeiten werde.)
 
 ## Lernperiode Reflexion
 (In dieser Lernperiode habe ich... (50-100 Wörter))
