@@ -62,5 +62,14 @@ Mich mit den Basics mehr vertaut machen und eventuell ein Projekt anfangen
 
 (Da wir unser Programmierprojekt am Mittwoch abgeben mussten, konnten wir leider nicht mehr daran arbeiten. Da wir dazu eine Präsentation halten müssen, haben wir diese Stunden in die Gestaltung der Präsentation investiert. Das erleichtert unsere Koordination, da wir alles selbst gestaltet haben. Es lief alles gut und es gab keine Probleme. Ich vermute, dass alles auf das nächste Mal abgeschlossen ist und ich dann ein neues Projekt anfangen oder eventuell eines der Module bearbeiten werde.)
 
+## Planung 05.12.2025
+
+- [X] 6943
+- [X] 6953
+- [X] 1742
+- [X] OBA
+
+(Heute habe ich an Modul 162 gearbeitet. Da wir nächste Woche eine Prüfung in diesem Modul haben und ich noch nicht alle Aufträge bearbeitet hatte, habe ich heute nachgearbeitet. Es verlief alles sehr gut und ich habe die Themen gut verstanden. Da ich noch Zeit hatte, habe ich mich ausserdem an das OBA gewandt. Beim nächsten Mal werde ich natürlich nicht mehr an diesem Modul arbeiten können und werde daher wahrscheinlich entweder ein anderes Modul bearbeiten oder ein kleines Projekt starten.)
+
 ## Lernperiode Reflexion
 (In dieser Lernperiode habe ich... (50-100 Wörter))
