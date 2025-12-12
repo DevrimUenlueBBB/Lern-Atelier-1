@@ -71,5 +71,12 @@ Mich mit den Basics mehr vertaut machen und eventuell ein Projekt anfangen
 
 (Heute habe ich an Modul 162 gearbeitet. Da wir nächste Woche eine Prüfung in diesem Modul haben und ich noch nicht alle Aufträge bearbeitet hatte, habe ich heute nachgearbeitet. Es verlief alles sehr gut und ich habe die Themen gut verstanden. Da ich noch Zeit hatte, habe ich mich ausserdem an das OBA gewandt. Beim nächsten Mal werde ich natürlich nicht mehr an diesem Modul arbeiten können und werde daher wahrscheinlich entweder ein anderes Modul bearbeiten oder ein kleines Projekt starten.)
 
+## Planung 12.12.2025
+- [X] 1704
+- [X] 1705
+- [X] 1706
+
+(Heute habe ich an Modul 117 gearbeitet. Ich habe die Theorie der genannten Aufträge gelernt und die jeweiligen Aufgaben gelöst. Es verlief alles gut, allerdings ist es einfach sehr viel Neues. Ich werde wahrscheinlich beim nächsten Mal weiter daran arbeiten, da wir nicht genügend Zeit haben, um alle Aufträge zu lösen. Daher würde ich gerne ein wenig vorarbeiten.)
+
 ## Lernperiode Reflexion
 (In dieser Lernperiode habe ich... (50-100 Wörter))
