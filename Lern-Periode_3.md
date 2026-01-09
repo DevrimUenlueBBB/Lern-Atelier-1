@@ -2,7 +2,7 @@
 ## Lern-Periode 2
 Name: Devrim Ünlü
 
-09.01.2026 bis 12.12.2025
+09.01.2026 bis 27.03.2026
 
 ## Grob-Planung
 ### Noten
