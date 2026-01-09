@@ -11,21 +11,20 @@ Name: Devrim Ünlü
 162 = 5.5
 
 ### Veränderungen
-Ich konnte viel lernen und habe nun eine kleine Ahnung von der Informatik. Es freut mich zu sehen, dass ich mein Wissen auch im Alltag ab und zu anwenden kann. Ich merke, dass ich tatsächlich mehr Wissen mit mir trage.
+In der letzten Periode habe ich überwiegend an den Modulen gearbeitet und viel gelernt. In der Theorie bin ich immer vertrauter mit der Informatik geworden, allerdings waren die letzten Module nicht sehr praxis- oder programmierorientiert.
 
 ###  Projekte / neue Technologien
-Ich habe viel gelernt, allerdings bin ich noch lange nicht auf dem Wissensstand, auf dem ich gern sein möchte. Ich werde daher vorwiegend weiter an den anderen Modulen arbeiten. Gegen Ende dieser Periode möchte ich aber gerne ein kleines Projekt beginnen.
+In dieser Periode würde ich gerne mehr praktisch arbeiten und demnach auch ein Projekt in dieser Richtung beginnen.
 
 ### Generelle Ziele
-Mich mit den Basics mehr vertaut machen und eventuell ein Projekt anfangen
+Praktisch arbeiten und mehr Erfahrung in dieser Richtung sammeln.
 
 
 ## Planung 09.01.2026
 
-- [x] 1721
-- [ ] 1711
-- [ ] 1712
+- [x] 1711
+- [X] 1712
+- [X] 1713
 
-(Leider habe ich heute nur 1721 bearbeitet. Es war eine sehr große Aufgabe, die mehr Zeit in Anspruch genommen hat als gedacht. Allerdings konnte ich mit 1711 beginnen.)
-
+(Heute habe ich an Modul 117 gearbeitet, da wir nächste Woche eine Abgabefrist haben und ich aufgrund meines vorherigen Krankseins einiges nachholen musste. Ich habe die Aufträge 1711 und 1713 gemeinsam mit Alex und Tobias vollständig bearbeitet. Wir haben sogar noch gemeinsam den Auftrag 1714 begonnen, diesen aber noch nicht fertiggestellt. Den Auftrag 1712 habe ich allein bearbeitet. Die Arbeit verlief sehr gut und die Teamarbeit war sehr effektiv. Beim nächsten Mal werde ich wahrscheinlich erneut an den Modulen arbeiten, da ich noch einiges nachholen möchte.)
 
