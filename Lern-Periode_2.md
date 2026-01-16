@@ -1,12 +1,9 @@
 # Lern-Atelier-1-2025
 ## Lern-Periode 2
-Name: Devrim Ünlü
 
 17.10.2025 bis 22.12.2025
 
 ## Grob-Planung
-### Noten
-Noch keine
 
 ### Veränderungen
 Ich konnte viel lernen und habe nun eine kleine Ahnung von der Informatik. Es freut mich zu sehen, dass ich mein Wissen auch im Alltag ab und zu anwenden kann. Ich merke, dass ich tatsächlich mehr Wissen mit mir trage.
