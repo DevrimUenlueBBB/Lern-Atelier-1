@@ -29,3 +29,10 @@ Praktisch arbeiten und mehr Erfahrung in dieser Richtung sammeln.
 - [X] Unreal Engine
 
 (Heute habe ich wieder an Modul 117 gearbeitet. Gemeinsam mit Alex und Tobias haben wir den Auftrag 1720 abgeschlossen. Wir haben den Auftrag heute vollständig abgeschlossen und es lief erneut gut. Wir haben heute zwar nicht so effizient gearbeitet, aber ich glaube, dass wir eine etwas entspanntere Arbeitsweise gebraucht haben, da wir in den letzten Wochen sehr konzentriert gearbeitet haben. Anschliessend habe ich Unreal Engine eingerichtet, da wir das nächste Mal ein kleines Projekt beginnen wollen, bei dem wir einen kleinen Mod für ein Spiel entwickeln möchten.)
+
+## Planung 023.01.2026
+
+- [x] Unreal Engine
+
+(Heute habe ich gemeinsam mit Alex und Tobias an den Einrichtungen und verschiedenen Bedingungen gearbeitet, damit wir anschliessend mit der Unreal Engine ein Mod für unser Spiel entwickeln können. Leider konnten wir heute noch nicht mit den eigentlichen Arbeiten beginnen, da das Einrichten sehr viel Zeit und Aufwand verlangte. Allerdings wissen wir nun, wie alles funktioniert, sodass wir beim nächsten Mal effektiv mit den Arbeiten beginnen können.) 
+
