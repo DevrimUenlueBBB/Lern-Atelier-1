@@ -36,3 +36,9 @@ Praktisch arbeiten und mehr Erfahrung in dieser Richtung sammeln.
 
 (Heute habe ich gemeinsam mit Alex und Tobias an den Einrichtungen und verschiedenen Bedingungen gearbeitet, damit wir anschliessend mit der Unreal Engine ein Mod für unser Spiel entwickeln können. Leider konnten wir heute noch nicht mit den eigentlichen Arbeiten beginnen, da das Einrichten sehr viel Zeit und Aufwand verlangte. Allerdings wissen wir nun, wie alles funktioniert, sodass wir beim nächsten Mal effektiv mit den Arbeiten beginnen können.) 
 
+## Planung 13.02.2026
+
+- [x] 1722
+- [x] 1723
+
+(Heute habe ich gemeinsam mit meinen Partnern Alex und Tobias an Modul 117 gearbeitet. Wir haben die Aufträge 1722 und 1723 effizient aufgeteilt und bearbeitet. Während der Arbeit gab es keinerlei Probleme, da wir sehr gut eingespielt sind und genau wissen, wie Aufträge aufzuteilen sind, um dann möglichst effizient daran zu arbeiten. Neben diesen Aufträgen konnten wir leider nichts weiter machen, da sie beide einen ziemlich grossen Zeitaufwand erforderten. Ich vermute, dass wir beim nächsten Mal erneut an dem Modul 117 arbeiten müssen, da die Abgabe in der darauffolgenden Woche ist.)
