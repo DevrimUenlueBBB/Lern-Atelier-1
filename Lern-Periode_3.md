@@ -42,3 +42,9 @@ Praktisch arbeiten und mehr Erfahrung in dieser Richtung sammeln.
 - [x] 1723
 
 (Heute habe ich gemeinsam mit meinen Partnern Alex und Tobias an Modul 117 gearbeitet. Wir haben die Aufträge 1722 und 1723 effizient aufgeteilt und bearbeitet. Während der Arbeit gab es keinerlei Probleme, da wir sehr gut eingespielt sind und genau wissen, wie Aufträge aufzuteilen sind, um dann möglichst effizient daran zu arbeiten. Neben diesen Aufträgen konnten wir leider nichts weiter machen, da sie beide einen ziemlich grossen Zeitaufwand erforderten. Ich vermute, dass wir beim nächsten Mal erneut an dem Modul 117 arbeiten müssen, da die Abgabe in der darauffolgenden Woche ist.)
+
+## Planung 20.02.2026
+
+- [x] Netwerklabor
+
+(Heute habe ich gemeinsam mit Alex, Joel, Tobias und Noe an unserem Netzwerklabor gearbeitet. Leider sind wir nicht fertig geworden, allerdings konnten wir einen besseren Einblick in die Praxis gewinnen. Ich finde, wir haben heute einigermassen gut gearbeitet, obwohl es doch ein wenig frustrierend war, die Dokumente zu organisieren. Für die Zukunft nehme ich mit, dass wir insgesamt einen besseren Überblick über die Dokumentation gewinnen müssen, da das Zusammenbauen des Netzwerks problemlos lief.)
