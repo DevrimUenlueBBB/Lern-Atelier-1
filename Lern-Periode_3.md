@@ -48,3 +48,10 @@ Praktisch arbeiten und mehr Erfahrung in dieser Richtung sammeln.
 - [x] Netwerklabor
 
 (Heute habe ich gemeinsam mit Alex, Joel, Tobias und Noe an unserem Netzwerklabor gearbeitet. Leider sind wir nicht fertig geworden, allerdings konnten wir einen besseren Einblick in die Praxis gewinnen. Ich finde, wir haben heute einigermassen gut gearbeitet, obwohl es doch ein wenig frustrierend war, die Dokumente zu organisieren. Für die Zukunft nehme ich mit, dass wir insgesamt einen besseren Überblick über die Dokumentation gewinnen müssen, da das Zusammenbauen des Netzwerks problemlos lief.)
+
+## Planung 27.02.2026
+
+- [ ] Unreal Engine
+- [X] Roblox Studio
+
+(Heute habe ich gemeinsam mit Alex, Tobias und Noe damit begonnen, ein Spiel zu programmieren und zu gestalten. Zunächst versuchten Alex, Tobias und ich, an unserem Projekt in Unreal Engine weiterzuarbeiten. Allerdings kam es zu Schwierigkeiten beim Verbinden mit dem Server. Wir entschieden uns, keine weitere Zeit damit zu verschwenden, und starteten ein neues Projekt, das diese Probleme nicht hat. Schlussendlich führte uns dies zu Roblox Studio, wo uns dann auch Noe beitrat. Dort ist die Zusammenarbeit um einiges einfacher und wir konnten bereits mit dem Coden und Map-Working beginnen. Bisher haben wir nur Kleinigkeiten entschieden, wie die Spielart und die Designrichtung. Ich bin mir sicher, dass wir das nächste Mal damit fortfahren.)
