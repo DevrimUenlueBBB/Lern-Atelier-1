@@ -55,3 +55,9 @@ Praktisch arbeiten und mehr Erfahrung in dieser Richtung sammeln.
 - [X] Roblox Studio
 
 (Heute habe ich gemeinsam mit Alex, Tobias und Noe damit begonnen, ein Spiel zu programmieren und zu gestalten. Zunächst versuchten Alex, Tobias und ich, an unserem Projekt in Unreal Engine weiterzuarbeiten. Allerdings kam es zu Schwierigkeiten beim Verbinden mit dem Server. Wir entschieden uns, keine weitere Zeit damit zu verschwenden, und starteten ein neues Projekt, das diese Probleme nicht hat. Schlussendlich führte uns dies zu Roblox Studio, wo uns dann auch Noe beitrat. Dort ist die Zusammenarbeit um einiges einfacher und wir konnten bereits mit dem Coden und Map-Working beginnen. Bisher haben wir nur Kleinigkeiten entschieden, wie die Spielart und die Designrichtung. Ich bin mir sicher, dass wir das nächste Mal damit fortfahren.)
+
+## Planung 06.02.2026
+
+- [X] Roblox Studio
+
+(Heute habe ich erneut mit meinen Partnern an unserem Spiel vom letzten Mal weitergearbeitet. Wir haben zwar wie schon zuvor unsere Aufgaben aufgeteilt, aber ich habe am Map-Working fortgefahren und ebenfalls mit einem Transkript begonnen. Allerdings haben wir noch keine grosse Geschichte. An dieser werde ich beim nächsten Mal arbeiten. Die Zusammenarbeit verlief wie immer sehr gut und jeder fügt sich gut in seine Aufgaben ein.)
