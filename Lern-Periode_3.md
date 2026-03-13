@@ -56,8 +56,15 @@ Praktisch arbeiten und mehr Erfahrung in dieser Richtung sammeln.
 
 (Heute habe ich gemeinsam mit Alex, Tobias und Noe damit begonnen, ein Spiel zu programmieren und zu gestalten. Zunächst versuchten Alex, Tobias und ich, an unserem Projekt in Unreal Engine weiterzuarbeiten. Allerdings kam es zu Schwierigkeiten beim Verbinden mit dem Server. Wir entschieden uns, keine weitere Zeit damit zu verschwenden, und starteten ein neues Projekt, das diese Probleme nicht hat. Schlussendlich führte uns dies zu Roblox Studio, wo uns dann auch Noe beitrat. Dort ist die Zusammenarbeit um einiges einfacher und wir konnten bereits mit dem Coden und Map-Working beginnen. Bisher haben wir nur Kleinigkeiten entschieden, wie die Spielart und die Designrichtung. Ich bin mir sicher, dass wir das nächste Mal damit fortfahren.)
 
-## Planung 06.02.2026
+## Planung 06.03.2026
 
 - [X] Roblox Studio
 
 (Heute habe ich erneut mit meinen Partnern an unserem Spiel vom letzten Mal weitergearbeitet. Wir haben zwar wie schon zuvor unsere Aufgaben aufgeteilt, aber ich habe am Map-Working fortgefahren und ebenfalls mit einem Transkript begonnen. Allerdings haben wir noch keine grosse Geschichte. An dieser werde ich beim nächsten Mal arbeiten. Die Zusammenarbeit verlief wie immer sehr gut und jeder fügt sich gut in seine Aufgaben ein.)
+
+## Planung 13.03.2026
+
+- [X] Modul 187
+- [X] Roblox Studio
+ 
+(Heute habe ich zunächst noch ein wenig mit VMs experimentiert, da wir diese im letzten Modul 187 eingerichtet hatten. Ich fand allerdings, dass wir zu wenig Zeit dafür investiert hatten. Deshalb erkundete ich meine VMs mit den Betriebssystemen Windows 10 und Ubuntu ein wenig mehr. Anschließend arbeitete ich erneut an unserem Roblox-Studio-Projekt weiter und setzte meine Arbeit vom letzten Mal, das Planen einer Story, fort. Ich glaube, dass ich beim nächsten Mal mit dem Planen der Story fertig werde oder zumindest eine erste Version davon habe.) 
