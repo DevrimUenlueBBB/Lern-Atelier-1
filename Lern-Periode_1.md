@@ -47,7 +47,7 @@ Mich vertraut mit den Basics machen und meinen Weg in der Informatik finden.
 ## Planung 19.09.2025
 
 - [x] 1713
-- [] 1715
+- [ ] 1715
 - [x] 1717
 
 (Heute habe ich erneut an Modul 431 gearbeitet. Ich habe die Aufträge 1713 und 1717 vollständig bearbeitet. Bei 1715 bin ich jedoch auf Schwierigkeiten gestossen und konnte diesen nicht fertigstellen.)
