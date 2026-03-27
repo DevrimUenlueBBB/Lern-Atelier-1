@@ -67,4 +67,10 @@ Praktisch arbeiten und mehr Erfahrung in dieser Richtung sammeln.
 - [X] Modul 187
 - [X] Roblox Studio
  
-(Heute habe ich zunächst noch ein wenig mit VMs experimentiert, da wir diese im letzten Modul 187 eingerichtet hatten. Ich fand allerdings, dass wir zu wenig Zeit dafür investiert hatten. Deshalb erkundete ich meine VMs mit den Betriebssystemen Windows 10 und Ubuntu ein wenig mehr. Anschließend arbeitete ich erneut an unserem Roblox-Studio-Projekt weiter und setzte meine Arbeit vom letzten Mal, das Planen einer Story, fort. Ich glaube, dass ich beim nächsten Mal mit dem Planen der Story fertig werde oder zumindest eine erste Version davon habe.) 
+(Heute habe ich zunächst noch ein wenig mit VMs experimentiert, da wir diese im letzten Modul 187 eingerichtet hatten. Ich fand allerdings, dass wir zu wenig Zeit dafür investiert hatten. Deshalb erkundete ich meine VMs mit den Betriebssystemen Windows 10 und Ubuntu ein wenig mehr. Anschliessend arbeitete ich erneut an unserem Roblox-Studio-Projekt weiter und setzte meine Arbeit vom letzten Mal, das Planen einer Story, fort. Ich glaube, dass ich beim nächsten Mal mit dem Planen der Story fertig werde oder zumindest eine erste Version davon habe.) 
+
+## Planung 27.03.2026
+
+- [X] Modul 106
+
+(Heute habe ich an dem Modul 106 weiter gearbeitet, damit ich nächste Woche sicherlich alle Abgaben tätigen kann. Heute im Unterricht habe ich hauptsächlich das Handlungsziel 3 fertig bearbeitet. Ich werde dann schliesslich die restlichen paar Aufträge zuhause bearbeiten, damit ich dann am Dienstag kein Stress habe. Es verlief alles gut und ich konnte mich ebenfalls mit Alex und Tobias austauschen und je nach dem Fehler beheben.)
