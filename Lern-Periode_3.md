@@ -74,3 +74,7 @@ Praktisch arbeiten und mehr Erfahrung in dieser Richtung sammeln.
 - [X] Modul 106
 
 (Heute habe ich an dem Modul 106 weiter gearbeitet, damit ich nächste Woche sicherlich alle Abgaben tätigen kann. Heute im Unterricht habe ich hauptsächlich das Handlungsziel 3 fertig bearbeitet. Ich werde dann schliesslich die restlichen paar Aufträge zuhause bearbeiten, damit ich dann am Dienstag kein Stress habe. Es verlief alles gut und ich konnte mich ebenfalls mit Alex und Tobias austauschen und je nach dem Fehler beheben.)
+
+## Lernperiode Reflexion
+
+In dieser Lernperiode habe ich meine Vorhaben zunächst nicht wirklich in Angriff genommen, da ich oft Dinge aus den anderen Modulen bearbeiten musste, um alles zu schaffen. Gegen Ende habe ich jedoch ein Projekt mit meinen Partnern Alex, Tobias und Noe gefunden, das ich in der nächsten Lernperiode fortsetzen möchte. Insgesamt bin ich eigentlich zufrieden, da ich schliesslich etwas gefunden habe, obwohl es etwas lang gedauert hat.
