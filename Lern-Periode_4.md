@@ -6,13 +6,13 @@
 ## Grob-Planung
 
 ### Veränderungen
-In der letzten Periode habe ich einigermassen die 
+In der letzten Periode habe ich die Voraussetzungen einigermassen erfüllt. Ich habe zwei Projekte begonnen, wobei ich das eine Projekt aufgeben musste. Das zweite Projekt verläuft jedoch gut.
 
 ###  Projekte / neue Technologien
-In dieser Periode würde ich gerne mehr praktisch arbeiten und demnach auch ein Projekt in dieser Richtung beginnen.
+In dieser Periode möchte ich mein Projekt gerne mit meinen Partnern fortsetzen und weiterentwickeln.
 
 ### Generelle Ziele
-Praktisch arbeiten und mehr Erfahrung in dieser Richtung sammeln.
+Effizient weiterarbeiten und stehts neues dazu lernen
 
 
-## Planung 09.01.2026
+## Planung 08.05.2026
