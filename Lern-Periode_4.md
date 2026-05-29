@@ -27,3 +27,9 @@ Effizient weiterarbeiten und stehts neues dazu lernen
 - [X] Computer
 
 (Heute habe ich erneut gemeinsam mit Tobias den Monitor evaluiert und leider war dieser nicht gut genug. Daher werden wir nach einem neuen ausschau halten.)
+
+## Planung 29.05.2026
+
+- [X] Computer
+
+(Heute habe ich erneut gemeinsam mit Tobias nach einem neuen Monitor gesucht. Wir haben zwei Monitore gefunden, welche wir noch zur überprüfung and Herr Thut.)
