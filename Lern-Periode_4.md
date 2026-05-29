@@ -32,4 +32,4 @@ Effizient weiterarbeiten und stehts neues dazu lernen
 
 - [X] Computer
 
-(Heute habe ich erneut gemeinsam mit Tobias nach einem neuen Monitor gesucht. Wir haben zwei Monitore gefunden, welche wir noch zur überprüfung and Herr Thut.)
+(Heute habe ich gemeinsam mit Tobias erneut nach einem neuen Monitor gesucht. Wir haben zwei Monitore gefunden, die wir noch zur Überprüfung an Herrn Thut geben werden.)
