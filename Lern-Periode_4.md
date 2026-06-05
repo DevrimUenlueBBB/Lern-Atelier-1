@@ -18,18 +18,25 @@ Effizient weiterarbeiten und stehts neues dazu lernen
 ## Planung 08.05.2026
 
 - [X] 2420
-- [X] Computer
+- [X] Monitor
 
 (Heute habe ich die Module 106 und 2420 bearbeitet. Alles verlief dabei sehr gut und ich konnte den Auftrag ohne Probleme bearbeiten. Anschliessend habe ich gemeinsam mit einigen anderen aus der Klasse nach neuen Monitoren recherchiert. Beim nächsten Mal werde ich höchstwahrscheinlich wieder an dem Projekt von Alex, Tobias und mir weiterarbeiten.)
 
 ## Planung 22.05.2026
 
-- [X] Computer
+- [X] Monitor
 
 (Heute habe ich erneut gemeinsam mit Tobias den Monitor evaluiert und leider war dieser nicht gut genug. Daher werden wir nach einem neuen ausschau halten.)
 
 ## Planung 29.05.2026
 
-- [X] Computer
+- [X] Monitor
 
 (Heute habe ich gemeinsam mit Tobias erneut nach einem neuen Monitor gesucht. Wir haben zwei Monitore gefunden, die wir noch zur Überprüfung an Herrn Thut geben werden.)
+
+## Planung 05.06.2026
+
+- [X] Monitor
+- [X] Projekt
+
+(Heute habe ich erneut mit Tobias nach Monitoren gesucht, da unser letzter Vorschlag aufgrund der zu schwachen Stromversorgung abgelehnt wurde. Wir konnten zwei passende Monitore finden, die wir persönlich als hochwertig und geeignet für die Anforderungen betrachten. Gegen Ende habe ich ebenfalls noch ein wenig an meinem Projekt für das Modul 122 gearbeitet, damit ich sicher ausreichend durchkomme. )
