@@ -37,6 +37,12 @@ Effizient weiterarbeiten und stehts neues dazu lernen
 ## Planung 05.06.2026
 
 - [X] Monitor
-- [X] Projekt
+- [X] Modul 122
 
-(Heute habe ich erneut mit Tobias nach Monitoren gesucht, da unser letzter Vorschlag aufgrund der zu schwachen Stromversorgung abgelehnt wurde. Wir konnten zwei passende Monitore finden, die wir persönlich als hochwertig und geeignet für die Anforderungen betrachten. Gegen Ende habe ich ebenfalls noch ein wenig an meinem Projekt für das Modul 122 gearbeitet, damit ich sicher ausreichend durchkomme. )
+(Heute habe ich erneut mit Tobias nach Monitoren gesucht, da unser letzter Vorschlag aufgrund der zu schwachen Stromversorgung abgelehnt wurde. Wir konnten zwei passende Monitore finden, die wir persönlich als hochwertig und geeignet für die Anforderungen betrachten. Gegen Ende habe ich ebenfalls noch ein wenig an meinem Projekt für das Modul 122 gearbeitet, damit ich sicher ausreichend durchkomme.)
+
+## Planung 12.06.2026
+
+- [X] Modul 122
+
+(Heute habe ich erneut an dem Projekt des Moduls 122 gearbeitet, da mir im Unterricht aufgefallen ist, dass ich mehr Zeit dafür benötige. Grundsätzlich läuft alles gut, ich brauche einfach noch mehr Zeit für die Dokumentation. Beim nächsten Mal werde ich wahrscheinlich noch ein wenig daran oder an meinem HTML-Projekt weiterarbeiten.)
