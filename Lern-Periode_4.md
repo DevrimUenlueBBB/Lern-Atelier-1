@@ -46,3 +46,9 @@ Effizient weiterarbeiten und stehts neues dazu lernen
 - [X] Modul 122
 
 (Heute habe ich erneut an dem Projekt des Moduls 122 gearbeitet, da mir im Unterricht aufgefallen ist, dass ich mehr Zeit dafür benötige. Grundsätzlich läuft alles gut, ich brauche einfach noch mehr Zeit für die Dokumentation. Beim nächsten Mal werde ich wahrscheinlich noch ein wenig daran oder an meinem HTML-Projekt weiterarbeiten.)
+
+## Planung 12.06.2026
+
+- [X] Modul 293
+
+(Heute habe ich an dem Modul 293 gearbeitet. Ich konnte leider diesen Dienstag nicht wirklich mit der Umsetzung der Website dann anfangen, da ich dort die ganze Zeit für die Dokumentation verwenden musste. Heute lief alles gut, ich finde ich habe viel Fortschritt gemacht. Nächstes mal werde ich wahrscheinlich an einem anderen Projekt arbeiten.)
