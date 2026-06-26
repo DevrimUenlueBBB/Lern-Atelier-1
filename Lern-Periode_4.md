@@ -47,8 +47,14 @@ Effizient weiterarbeiten und stehts neues dazu lernen
 
 (Heute habe ich erneut an dem Projekt des Moduls 122 gearbeitet, da mir im Unterricht aufgefallen ist, dass ich mehr Zeit dafür benötige. Grundsätzlich läuft alles gut, ich brauche einfach noch mehr Zeit für die Dokumentation. Beim nächsten Mal werde ich wahrscheinlich noch ein wenig daran oder an meinem HTML-Projekt weiterarbeiten.)
 
-## Planung 12.06.2026
+## Planung 19.06.2026
 
 - [X] Modul 293
 
-(Heute habe ich an dem Modul 293 gearbeitet. Ich konnte leider diesen Dienstag nicht wirklich mit der Umsetzung der Website dann anfangen, da ich dort die ganze Zeit für die Dokumentation verwenden musste. Heute lief alles gut, ich finde ich habe viel Fortschritt gemacht. Nächstes mal werde ich wahrscheinlich an einem anderen Projekt arbeiten.)
+(Heute habe ich an dem Modul 293 gearbeitet. Ich konnte leider diesen Dienstag nicht wirklich mit der Umsetzung der Website dann anfangen, da ich dort die ganze Zeit für die Dokumentation verwenden musste. Heute lief alles gut, ich finde ich habe viel Fortschritt gemacht. Nächstes mal werde ich wahrscheinlich an einem anderen Projekt arbeiten.)£
+
+## Planung 26.06.2026
+
+- [X] Projekt
+
+(Da heute der letzte Tag meines ILA-Unterrichts ist und ich aufgrund meines Wechsels an das Gymnasium keine Möglichkeit habe, das Projekt später weiterzuentwickeln, wollte ich nicht mehr etwas zu Grosses anfangen. Allerdings habe ich mich etwas mehr mit meinem Skript aus dem Modul 122 auseinandergesetzt, da dieses zwar nun fertig entwickelt ist, ich aber die Möglichkeiten meines Skripts völlig ausschöpfen und die Grenzen austesten wollte. Es verlief alles ziemlich gut und ich konnte keine weiteren Probleme finden, bis auf diejenigen, die ich bereits durch meine Testfälle beheben konnte.)
